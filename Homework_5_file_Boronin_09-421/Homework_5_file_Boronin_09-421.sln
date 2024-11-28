@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_5_file_Boronin_09-421", "Homework_5_file_Boronin_09-421.csproj", "{BD675B9D-C082-4CE9-AFD8-73CF3355B569}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_lava_Tumakov", "..\Homework_lava_Tumakov\Homework_lava_Tumakov.csproj", "{1FF2F64E-DB54-4386-A47E-F7A81DC721BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{8DF6EA7E-054B-4089-A6C0-2184AA9CC964}"
+	ProjectSection(SolutionItems) = preProject
+		text.txt = text.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD675B9D-C082-4CE9-AFD8-73CF3355B569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD675B9D-C082-4CE9-AFD8-73CF3355B569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD675B9D-C082-4CE9-AFD8-73CF3355B569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD675B9D-C082-4CE9-AFD8-73CF3355B569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF2F64E-DB54-4386-A47E-F7A81DC721BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF2F64E-DB54-4386-A47E-F7A81DC721BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF2F64E-DB54-4386-A47E-F7A81DC721BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF2F64E-DB54-4386-A47E-F7A81DC721BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B38B42AB-2AB8-4867-B03C-41CE29C6F15D}
+	EndGlobalSection
+EndGlobal

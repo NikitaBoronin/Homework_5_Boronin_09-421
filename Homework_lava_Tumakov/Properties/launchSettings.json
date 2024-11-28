@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Homework_lava_Tumakov": {
+      "commandName": "Project",
+      "commandLineArgs": "text.txt\r\n\r\n"
+    }
+  }
+}
