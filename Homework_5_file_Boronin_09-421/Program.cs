@@ -553,7 +553,7 @@
                 Console.WriteLine($"Длина пути: {distances[target]}");
             }
         }
-        // ds
+        
 
 
         static void Main(string[] args)
